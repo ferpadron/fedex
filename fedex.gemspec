@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = "FedEex is mainly focused on getting shipping quotes from FedEx."
   spec.homepage = "https://github.com/ferpadron/fedex"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 2.6.0"
+  spec.required_ruby_version = ">= 3.1.2"
 
   # spec.metadata["allowed_push_host"] = "Set to your gem server 'https://example.com'"
 

@@ -38,7 +38,7 @@ PLATFORMS
 DEPENDENCIES
   fedex!
   minitest (~> 5.0)
-  nokogiri
+  nokogiri (~> 1.14.2)
   rake (~> 13.0)
   rubocop (~> 1.21)
 
